@@ -7,4 +7,6 @@ It contains following sorting algorithms
 * Selection Sort
 * Quick Sort
 * Merge Sort
+[Click here to view my website](https://kokara.github.io/Sorting-Visualizer/)
+ 
             
