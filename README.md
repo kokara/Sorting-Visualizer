@@ -1,6 +1,6 @@
 # Sorting Visualizer
 
-This is  a sorting visualizer project. This is built using **HTML**, **CSS** and **JavaScript**.<br>
+This is  a sorting visualizer project. This is built using **HTML**, **CSS** and **JavaScript**.<br><br>
 It contains following sorting algorithms
 * Bubble Sort
 * Insertion Sort
